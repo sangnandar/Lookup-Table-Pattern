@@ -4,7 +4,6 @@ This project demonstrates an efficient and maintainable way to handle dropdown v
 
 It promotes clean separation of business logic, reduces complex conditional code, and simplifies adding or updating workflow steps.
 
-
 ## ❓ Why This Pattern?
 
 Traditional `if/else` or `switch` statements can quickly become hard to read and maintain—especially when handling many status transitions with complex branching.
