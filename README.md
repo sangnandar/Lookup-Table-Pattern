@@ -1,8 +1,9 @@
 # 📋 Lookup Table Pattern in Apps Script
 
-This project demonstrates a clean and scalable **lookup table pattern** in Google Apps Script for handling **dropdown value changes** in a Google Sheet.
+This project demonstrates an efficient and maintainable way to handle dropdown value changes in Google Sheets using Google Apps Script. By leveraging a **lookup table pattern (dispatch table)**, it enables scalable, readable, and flexible management of status transitions—ideal for workflows like order processing, task tracking, or any state-based automation.
 
-It is especially useful when managing transitions between dropdown statuses in a sheet like "Orders", triggering specific functions based on what the value **was** and what it **became**.
+It promotes clean separation of business logic, reduces complex conditional code, and simplifies adding or updating workflow steps.
+
 
 ## ❓ Why This Pattern?
 
