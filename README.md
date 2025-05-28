@@ -99,7 +99,7 @@ graph TD;
 
 Suppose you have a dropdown in column A of your "Orders" sheet:
 
-| Status          | Order ID    | Client Name |
+| Status (Col A)  | Order ID    | Client Name |
 | --------------- | ----------- | ----------- |
 | `Waitlist`      | V8K3J1T7PQ  | Alice       |
 | `Confirmation`  | XG5PLQ7YTZ  | Bob         |
